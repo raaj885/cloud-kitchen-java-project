@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.security.DomainCombiner"/>
+    <fullyQualifiedTypeName name="com.kitchenapp.model.Menu"/>
+    <fullyQualifiedTypeName name="com.kitchenapp.service.MenuServiceImpl"/>
+    <fullyQualifiedTypeName name="com.kitchenapp.service.IMenuService"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="com.kitchenapp.repository.IMenuRepository"/>
+    <fullyQualifiedTypeName name="com.kitchenapp.exceptions.ItemNotFoundExceptions"/>
+    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+    <fullyQualifiedTypeName name="com.kitchenapp.repository.MenuRepositoryImpl"/>
+</qualifiedTypeNameHistroy>
